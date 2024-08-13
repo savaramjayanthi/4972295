@@ -1,0 +1,16 @@
+EmployeeManagementSystem/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/
+│   │   │       └── example/
+│   │   │           └── employeemanagementsystem/
+│   │   │               ├── model/
+│   │   │               │   ├── Employee.java
+│   │   │               │   └── Department.java
+│   │   │               ├── repository/
+│   │   │               └── controller/
+│   │   └── resources/
+│   │       ├── application.properties
+└── pom.xml
+
